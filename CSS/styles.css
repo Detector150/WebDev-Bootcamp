@@ -1,0 +1,18 @@
+body{
+    background-color: #fde8cd;
+}
+
+hr{
+    /*background-color: #433520;*/
+    border-style:none;
+    border-top-style: dotted;
+    border-color:#433520 ;
+    border-top-width: 10px;
+    height: 1px;
+    width: 10%;
+    
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
